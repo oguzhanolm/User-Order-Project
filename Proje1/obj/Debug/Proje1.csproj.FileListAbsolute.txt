@@ -1,0 +1,12 @@
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.frmMain.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.Form2.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.Form3.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\pazar\Desktop\Yazılım Dökümanları\Proje1\Proje1\obj\Debug\Proje1.pdb
